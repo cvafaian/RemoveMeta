@@ -4,7 +4,8 @@ Quickly remove meta data from individual photos.
 
 ## How to use
 * Clone repository to desktop
-* Open application located in dist folder. The application is called "main"
+* Navigate to repository in terminal and enter ```python3 main.py``` 
+* A GUI will now pop up
 * Drag and drop individual photo into dashed box as indicated
 * Success (indicated by a checkmark image) 
   * New image with the same name sans identifying metadata is created in same location as original image. 
