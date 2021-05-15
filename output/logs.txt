@@ -1,0 +1,220 @@
+-------------------------------------------------------------
+
+ Metadata Present Before: 
+
+ExifTool Version Number         : 12.00
+File Name                       : IMG_6316.heic
+Directory                       : /Users/cvafaian/Downloads
+File Size                       : 31350
+File Modification Date/Time     : 2021:05:13 22:52:54-04:00
+File Access Date/Time           : 2021:05:13 22:52:56-04:00
+File Inode Change Date/Time     : 2021:05:13 22:52:54-04:00
+File Permissions                : 644
+File Type                       : HEIC
+File Type Extension             : HEIC
+MIME Type                       : image/heic
+Major Brand                     : heic
+Minor Version                   : 0.0.0
+Compatible Brands               : mif1, heic
+Handler Type                    : pict
+Primary Item Reference          : 5
+Exif Byte Order                 : MM
+Make                            : Apple
+Camera Model Name               : iPhone 12
+Orientation                     : 1
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : 2
+Software                        : 14.4.2
+Tile Width                      : 512
+Tile Length                     : 512
+Exposure Time                   : 0.0625
+F Number                        : 2.2
+Exposure Program                : 2
+ISO                             : 800
+Exif Version                    : 0232
+Date/Time Original              : 2021:05:13 22:51:59
+Components Configuration        : 1 2 3 0
+Shutter Speed Value             : 0.0629219999422067
+Aperture Value                  : 2.20000000038133
+Brightness Value                : -2.14981753
+Exposure Compensation           : 0
+Metering Mode                   : 5
+Flash                           : 25
+Focal Length                    : 2.71
+Run Time Flags                  : 1
+Run Time Value                  : 50276406622000
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Acceleration Vector             : -0.07393632082 -0.9028042556 -0.4154078958
+Sub Sec Time Original           : 427
+Sub Sec Time Digitized          : 427
+Flashpix Version                : 0100
+Color Space                     : 65535
+Exif Image Width                : 3088
+Exif Image Height               : 2316
+Sensing Method                  : 2
+Scene Type                      : 1
+Exposure Mode                   : 0
+White Balance                   : 0
+Focal Length In 35mm Format     : 30
+Scene Capture Type              : 0
+Lens Info                       : 2.710000038 2.710000038 2.2 2.2
+Lens Make                       : Apple
+Lens Model                      : iPhone 12 front camera 2.71mm f/2.2
+GPS Latitude Ref                : N
+GPS Longitude Ref               : W
+GPS Altitude Ref                : 0
+GPS Speed Ref                   : K
+GPS Speed                       : 0.007869527236
+GPS Img Direction Ref           : T
+GPS Img Direction               : 167.2192078
+GPS Dest Bearing Ref            : T
+GPS Dest Bearing                : 347.2192078
+GPS Horizontal Positioning Error: 4.787821738
+XMP Toolkit                     : XMP Core 5.4.0
+Create Date                     : 2021:05:13 22:51:59.427
+Modify Date                     : 2021:05:13 22:51:59
+Creator Tool                    : 14.4.2
+Date Created                    : 2021:05:13 22:51:59.427
+Profile CMM Type                : appl
+Profile Version                 : 1024
+Profile Class                   : mntr
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : APPL
+CMM Flags                       : 0
+Device Manufacturer             : APPL
+Device Model                    : 
+Device Attributes               : 0 0
+Rendering Intent                : 0
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : appl
+Profile ID                      : 202 26 149 130 37 127 16 77 56 153 19 213 209 234 21 130
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+HEVC Configuration Version      : 1
+General Profile Space           : 0
+General Tier Flag               : 0
+General Profile IDC             : 1
+Gen Profile Compatibility Flags : 1610612736
+Constraint Indicator Flags      : 176 0 0 0 0 0
+General Level IDC               : 90
+Min Spatial Segmentation IDC    : 0
+Parallelism Type                : 0
+Chroma Format                   : 1
+Bit Depth Luma                  : 8
+Bit Depth Chroma                : 8
+Average Frame Rate              : 0
+Constant Frame Rate             : 0
+Num Temporal Layers             : 1
+Temporal ID Nested              : 1
+Image Width                     : 648
+Image Height                    : 648
+Image Spatial Extent            : 648 648
+Image Pixel Depth               : 8 8 8
+Media Data Size                 : 30042
+Media Data Offset               : 1308
+Run Time Since Power Up         : 50276.406622
+Aperture                        : 2.2
+Image Size                      : 648 648
+Lens ID                         : iPhone 12 front camera 2.71mm f/2.2
+Megapixels                      : 0.419904
+Scale Factor To 35 mm Equivalent: 11.070110701107
+Shutter Speed                   : 0.0625
+Create Date                     : 2021:05:13 22:51:59.427
+Date/Time Original              : 2021:05:13 22:51:59.427
+GPS Altitude                    : 264.7935835
+GPS Latitude                    : 42.2811138888889
+GPS Longitude                   : -83.6819527777778
+Circle Of Confusion             : 0.00271417887680761
+Field Of View                   : 61.9275653721238
+Focal Length                    : 30
+GPS Position                    : 42.2811138888889 -83.6819527777778
+Hyperfocal Distance             : 1.22992161690303
+Light Value                     : 3.27500704749987
+
+
+ Metadata Present After: 
+
+    1 image files updated
+
+ExifTool Version Number         : 12.00
+File Name                       : IMG_6316.heic
+Directory                       : /Users/cvafaian/Downloads
+File Size                       : 26597
+File Modification Date/Time     : 2021:05:15 04:54:54-04:00
+File Access Date/Time           : 2021:05:15 04:54:54-04:00
+File Inode Change Date/Time     : 2021:05:15 04:54:54-04:00
+File Permissions                : 644
+File Type                       : HEIC
+File Type Extension             : HEIC
+MIME Type                       : image/heic
+Major Brand                     : heic
+Minor Version                   : 0.0.0
+Compatible Brands               : mif1, heic
+Handler Type                    : pict
+Primary Item Reference          : 5
+Profile CMM Type                : appl
+Profile Version                 : 1024
+Profile Class                   : mntr
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : APPL
+CMM Flags                       : 0
+Device Manufacturer             : APPL
+Device Model                    : 
+Device Attributes               : 0 0
+Rendering Intent                : 0
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : appl
+Profile ID                      : 202 26 149 130 37 127 16 77 56 153 19 213 209 234 21 130
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+HEVC Configuration Version      : 1
+General Profile Space           : 0
+General Tier Flag               : 0
+General Profile IDC             : 1
+Gen Profile Compatibility Flags : 1610612736
+Constraint Indicator Flags      : 176 0 0 0 0 0
+General Level IDC               : 90
+Min Spatial Segmentation IDC    : 0
+Parallelism Type                : 0
+Chroma Format                   : 1
+Bit Depth Luma                  : 8
+Bit Depth Chroma                : 8
+Average Frame Rate              : 0
+Constant Frame Rate             : 0
+Num Temporal Layers             : 1
+Temporal ID Nested              : 1
+Image Width                     : 648
+Image Height                    : 648
+Image Spatial Extent            : 648 648
+Image Pixel Depth               : 8 8 8
+Media Data Size                 : 25289
+Media Data Offset               : 1308
+Image Size                      : 648 648
+Megapixels                      : 0.419904
+
+
+-------------------------------------------------------------

@@ -17,7 +17,7 @@ class ImageLabel(QLabel):
         ''')
 
     def setPixmap(self, image):
-        self.setText(image)
+        super().setPixmap(image)
 
 
 
@@ -58,16 +58,26 @@ class App(QWidget):
 
 
     def success(self, file_path):
+        self.photoViewer.setPixmap(QPixmap("images/success.png"))
+        self.removeMeta(file_path)
 
+
+    def removeMeta(self, file_path):
+        # create output text
         text = "-------------------------------------------------------------"
-        text += "\n\n Before: \n"
-        text += subprocess.run(["exiftool",  "-n", file_path], capture_output=True)
-        text += "\n\n After: \n"
-        text += subprocess.run(["exiftool",  "-all=", file_path], capture_output=True)
+        text += "\n\n Metadata Present Before: \n\n"
+        output = subprocess.run(["exiftool",  "-n", file_path], capture_output=True)
+        text += output.stdout.decode("utf-8")
+        text += "\n\n Metadata Present After: \n\n"
+        output = subprocess.run(["exiftool",  "-all=", file_path], capture_output=True)
+        text += output.stdout.decode("utf-8")
         text += "\n"
-        text += subprocess.run(["exiftool",  "-n", file_path], capture_output=True)
+        output = subprocess.run(["exiftool",  "-n", file_path], capture_output=True)
+        text += output.stdout.decode("utf-8")
         text += "\n\n-------------------------------------------------------------"
-        self.photoViewer.setPixmap(text)
+        file = open("output/logs.txt", "w+")
+        file.write(text)
+        file.close()
 
 
 
